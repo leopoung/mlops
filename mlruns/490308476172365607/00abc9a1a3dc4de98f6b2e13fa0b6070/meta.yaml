@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/leopo/mlops/mlruns/490308476172365607/00abc9a1a3dc4de98f6b2e13fa0b6070/artifacts
+end_time: 1750860951882
+entry_point_name: ''
+experiment_id: '490308476172365607'
+lifecycle_stage: active
+run_id: 00abc9a1a3dc4de98f6b2e13fa0b6070
+run_name: selective-eel-986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750860937031
+status: 3
+tags: []
+user_id: leopoung

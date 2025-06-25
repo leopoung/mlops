@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/leopo/mlops/mlruns/490308476172365607/models/m-dd2a35eba2ce456099d2f1592616b200/artifacts
+creation_timestamp: 1750860952458
+experiment_id: '490308476172365607'
+last_updated_timestamp: 1750860958002
+model_id: m-dd2a35eba2ce456099d2f1592616b200
+model_type: null
+name: random_forest_model_2
+source_run_id: 86cc7f4460d140d2995d421124affc51
+status: 2
+status_message: null

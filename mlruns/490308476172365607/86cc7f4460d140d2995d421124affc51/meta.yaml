@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/leopo/mlops/mlruns/490308476172365607/86cc7f4460d140d2995d421124affc51/artifacts
+end_time: 1750860958028
+entry_point_name: ''
+experiment_id: '490308476172365607'
+lifecycle_stage: active
+run_id: 86cc7f4460d140d2995d421124affc51
+run_name: magnificent-crab-172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750860951917
+status: 3
+tags: []
+user_id: leopoung

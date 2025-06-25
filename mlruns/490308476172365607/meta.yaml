@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/leopo/mlops/mlruns/490308476172365607
+creation_time: 1750860936969
+experiment_id: '490308476172365607'
+last_update_time: 1750860936969
+lifecycle_stage: active
+name: RandomForestExperiment_2
